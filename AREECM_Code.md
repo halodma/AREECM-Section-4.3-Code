@@ -117,7 +117,7 @@ if element in areecm_digital_dictionary:
 
     print(f"\nElement: {element}")
     print(f"Total electrons: {total_electrons}")
-    print("Electrons in each orbital (current, max possible):")
+    print("Electrons in each orbital (Minimum, max possible):")
 
     # --- compute Nmin/Nmax for each orbital ---
     orbital_results = {}
