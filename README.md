@@ -9,3 +9,8 @@ Armstrong's Range Exponent Electron Configuration Model (AREECM) is new electron
 
 # Also Available on OSF
 https://doi.org/10.17605/OSF.IO/US7GJ
+
+# Additional Help
+Available on youtube
+https://youtu.be/Zj-MEX8jEus  (How to read AREECM electron notation)
+https://youtu.be/6NM0zsfH-Jg  (How to Convert Integer electron notation to AREECM notation)
